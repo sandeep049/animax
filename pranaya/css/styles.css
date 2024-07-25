@@ -1,0 +1,152 @@
+.abt-me-sec{
+	height: 20px;
+	padding:0px 0px 20px 0px;
+}
+
+
+.wild p{
+	display:inline-block;
+	border-bottom:2px solid grey;
+	
+}
+
+.wild p:after{
+	content:"";
+	display:block;
+	width: 30px;
+	border-bottom: 2px solid #54ca95;
+	position:relative;
+	margin-bottom: -2px;
+
+}
+
+.abt-me-head>h5{
+ color:grey;
+}
+
+
+.abt-me-image>img{
+	border:10px solid rgb(218, 207, 207);
+	height:300px;
+	width:300px;
+	border-radius:50%;
+	float:right;
+	margin-right:10px;
+	box-shadow:0px 0px 20px 0px grey;
+}
+
+.abt-me-image>img:hover{
+	padding:2px;
+}
+
+h1{
+	font-weight: 700;
+	font-size: 40px;
+
+}
+button{
+ border-radius:50px !important;
+}
+.nikolai-download-button{
+	border:2px solid lightgreen;
+	float:left;
+	color:black;
+	padding:10px 15px;
+}
+.nikolai-contact-button{
+	border:2px solid grey;
+	float:left;
+
+}
+.nikolai-contact-button{
+	border:2px solid grey;
+	float:left;
+	color:black;
+	padding:10px 15px;
+	margin-left:10px;
+}
+h5{
+	color:grey;
+	font-weight:500;
+	font-family: Times New Roman;
+
+}
+h6{
+	color:grey;
+	font-weight:500;
+	font-family: Times New Roman;
+
+}
+
+.nikolai-download-button:hover{
+	background:lightgreen;
+	color:white;
+	
+}
+.nikolai-contact-button:hover{
+	background:grey;
+	color:white;
+}
+.nikolai-head{
+	color:grey;
+	font-weight:500;
+	font-family: Times New Roman;
+}
+.wild-icon>i{
+	color:green;
+	float:left;
+	font-size:50px;
+}
+.wild{
+	font-weight: 600;
+	font-size:25px;
+}
+.container{
+	margin:50px 30px;
+}
+.test p{
+	font-weight: 600;
+	font-size:30px;
+	display:inline-block;
+	border-bottom:2px solid grey;
+	
+}
+.test p:after{
+	content: "";
+	display:block;
+	width: 30px;
+	border-bottom: 2px solid #54ca95;
+	position:relative;
+	margin-bottom: -2px;
+
+}
+
+.anime-border{
+	border:2px solid grey;
+	border-radius:10px;
+	padding:25px 25px;
+}
+.image{
+	border-radius: 50%;
+	height:60px;
+	width:60px;
+	position: relative;
+	left: -40px;
+	bottom: 40px;
+}
+
+.img {
+	border-radius: 10px;
+	height:-60px;
+	width:100px;
+	position: relative;
+	left: -40px;
+	bottom: 20px;
+}
+.orange{
+	position: middle;
+	left: 40px;
+	bottom: 20px;
+}
+
+
